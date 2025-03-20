@@ -20,16 +20,16 @@ This project is an **AI-powered question-answering agent** that processes docume
 git clone <your-private-repo-url>
 cd ai-helpdesk-bot
 ```
+## (I am using windows powershell in this case)
 
 ### **🔹 Set Up a Virtual Environment**
 ```powershell
 python -m venv venv
 ```
-
 ### **🔹 Activate the Virtual Environment**
 **PowerShell (Windows):**
 ```powershell
-.env\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1
 ```
 **Mac/Linux:**
 ```bash
